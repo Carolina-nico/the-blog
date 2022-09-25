@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.header-bg {
+    background: #290742;
+    height: 588px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    padding: 60px 135px;
+    align-items: center;
+}
+
+.header-lista {
+    display: flex;
+    gap: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 18px;
+}
+
+.header-lista li {
+    position: relative;
+    padding: 5px;
+}
+
+.header-lista li::before {
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 15px;
+    top: 8px;
+    left: -2px;
+    background-color: #4FFF4B;
+}
