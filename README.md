@@ -23,11 +23,10 @@
 
 ## Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone o projeto e acesse a pasta do mesmo, e abra o index.html no navegador
 
 ```bash
 $ git clone https://github.com/Carolina-nico/the-blog.git
-// E abra o index.html no navegador
 ```
 ## Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
