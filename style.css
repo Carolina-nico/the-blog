@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #FBF6FF;
+}
+
 .header-bg {
     background: #290742;
     /* height: 588px; */
