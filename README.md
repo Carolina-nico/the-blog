@@ -1,5 +1,5 @@
 # The Blog
-### Desenvolvimento de uma homepage para um blog. Baseado em um desafio da [Rocketseat]() - RocketBlog.
+### Desenvolvimento de uma homepage para um blog. Baseado em um desafio da [Rocketseat](https://www.rocketseat.com.br/) - RocketBlog.
 <br>
 ## Screenshots
 <table>
